@@ -1,6 +1,6 @@
 
 /*
- Alain Eugène Kayiranga
+ Alain_Kay
  
  Project: Resolving the Tower of hanoi using recursion
  
